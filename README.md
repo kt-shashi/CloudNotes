@@ -6,7 +6,7 @@ ___
 Best part? Your notes are **saved on cloud**, so you can access them from anywhere, anytime and on any **Android** device with your ID.
 ___ 
 
-> Database used : Cloud Firestore
+> Database used : **Cloud Firestore**
 ___
 
 <p float="left">
