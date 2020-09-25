@@ -2,9 +2,12 @@
 
 ___ 
 
-> Your go-to place for **writing down notes** and **prepare to-do lists**. Best part? Your notes are **saved on cloud**, so you can access them from anywhere, anytime and on any device with your ID.
+> Your go-to place for **writing down notes** and **prepare to-do lists**. <br>
+Best part? Your notes are **saved on cloud**, so you can access them from anywhere, anytime and on any **Android** device with your ID.
 ___ 
 
+> Database used : Cloud Firestore
+___
 
 <p float="left">
   <img src="/images/screenshot1.jpg" width="300" hspace="10"/>
